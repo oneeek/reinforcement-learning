@@ -15,7 +15,7 @@
 
 **👻 Markov Decision Process(MDP) 👻**
 
-강화학습은 markov property를 가지는 **`Markov Decision Process`** 로 정의된 문제를 푸는 알고리즘이다. markov property란 𝑡시점에 어떤 사건이 발생할 확률은 오직 𝑡−1시점에만 영향을 받는 성질으로, 강화학습의 State(𝑆)는 이를 가진다고 가정한다.
+강화학습은 markov property를 가지는 **`Markov Decision Process`** 로 정의된 문제를 푸는 알고리즘이다. markov property란 **𝑡시점**에 어떤 사건이 발생할 확률은 오직 **𝑡−1시점**에만 영향을 받는 성질으로, 강화학습의 **State(𝑆)**는 이를 가진다고 가정한다.
 
 $$ **P[S_{t+1}|S_t] = P[S_{t+1}|S_1,⋯S_t]** $$
 
