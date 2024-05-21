@@ -7,7 +7,7 @@
 
 > ### **강화학습의 구성 요소**
 
- **`Environment`**　⇄　**`Agent`** : 강화학습은 특정 **Environment**에서 정의된 **Agnet**가 현재의 **State**에서 선택 가능한 **Action** 중 **Reward**를 **최대화**하는 방향으로 **Action을 선택**하도록 스스로 학습한다. 이때 Reward(기대 보상)는 미래에 받게 될 모든 Reward들의 합에 대한 현재 값으로 정의한다.
+ **`Environment`**　⇄　**`Agent`** : 강화학습은 특정 **Environment**에서 정의된 **Agnet**가 현재의 **State**에서 선택 가능한 **Action** 중 **Reward**를 최대화하는 방향으로 Action을 선택하도록 스스로 학습한다. 이때 Reward(기대 보상)는 미래에 받게 될 모든 Reward들의 합에 대한 현재 값으로 정의한다.
 
 <br/>
 
@@ -28,7 +28,10 @@ $$  **P[S_{t+1}|S_t] = P[S_{t+1}|S_1,S_2,⋯S_t]**  $$
 
 - MDP의 구성요소 : **State(𝑆), Action(𝐴), Reward(𝑅), 전이확률(𝑃), 할인율(𝛾)**
 
-  -  **State(𝑆)**, Agent가 Environment를 관찰(observation)하여 인식
+  -  **State(𝑆)**,   Environment에 대응하는 개념으로, Agnet가
+ 
+  -  
+  -   관찰(observation)하여 인식
   -  **Action(𝐴)**,
   -  **Reward(𝑅)**, Agent가 결정한 Action에 따른 피드백
   -  **전이확률(𝑃)**
