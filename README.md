@@ -8,6 +8,8 @@
 
 > ### **강화학습의 구성 요소**
 
+### **Environment**　⇄　**Agent**
+
 **`Environment`**, **`Agnet`**, **`State`**, **`Action`**, **`Reward`**
 
 - 특정 **Environment**에서 정의된 **Agnet**는 현재의 **State**에서 선택 가능한 Action 중 **Reward**를 최대화하는 방향으로 **Action**을 선택하도록 학습된다. 이때 Reward(기대 보상)는 미래에 받게 될 모든 Reward들의 합에 대한 현재 값으로 정의한다.
@@ -15,8 +17,6 @@
 <br/>
 
 > ### **강화학습의 학습 과정**
-
-### **Environment**　⇄　**Agent**
 
 - Grid World 예시
 
