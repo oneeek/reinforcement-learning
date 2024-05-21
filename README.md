@@ -2,7 +2,8 @@
 
 - Machine Learning는 크게 Supervised Learning, Unsupervised Learning, 그리고 Reinforcement Learning의 3가지로 분류.
 
-- **`Reinforcement learning`** 은 행동심리학의 시행착오를 통해 학습하는 '강화' 개념에서 영감을 받은 **순차적 의사결정 문제를 해결하기 위한 방법론**. <br/>
+- **`Reinforcement learning`** 은 행동심리학의 시행착오를 통해 학습하는 '강화' 개념에서 영감을 받은 **순차적 의사결정 문제를 해결하기 위한 방법론**.
+<br/>
 
 > ### **강화학습의 구성 요소**
 
