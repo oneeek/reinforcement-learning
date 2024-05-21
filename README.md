@@ -16,7 +16,7 @@
 
 > ### **강화학습의 학습 과정**
 
-**Environment**　⇄　**Agent**
+### **Environment**　⇄　**Agent**
 
 - 예시
 
