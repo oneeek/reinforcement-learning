@@ -46,6 +46,7 @@
 
 위 이미지의 episode에서 최종 Reward는 step 마다 -0.1점, 목표지점에 도달하여 +1점을 받았기 때문에 **0.3점**이 된다.
 
+Agnet를 특정 State에서 Reward를 가장 많이 받을 수 있는 Action을 선택하도록 학습시키기 위해 각 State에서 Agnet가 선택한 Action과 Reward를 저장한다.
 
 <br/>
 
