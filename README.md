@@ -14,7 +14,7 @@
 
 : 특정 Environment에서 정의된 Agnet가 현재의 State에서 선택 가능한 Action 중 Reward를 최대화하는 방향으로 Action을 선택하도록 학습.
 
-*Reward(기대 보상)는 미래에 받게 될 모든 Reward들의 합에 대한 현재 값으로 정의
+*Reward(기대 보상)는 미래에 받게 될 모든 Reward들의 합에 대한 현재 값으로 정의.
 
 <br/>
 <br/>
