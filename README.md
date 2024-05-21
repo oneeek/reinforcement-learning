@@ -11,7 +11,7 @@
 
 <br/>
 
-🤔 강화학습으로 해결하고자 하는 문제는 Markov Decision Process로 정의되는 문제이다. 따라서 Markov Decision Process에 대한 이해가 필요하다. 
+ 🤔 강화학습으로 해결하고자 하는 문제는 Markov Decision Process로 정의되는 문제이다. 따라서 Markov Decision Process에 대한 이해가 필요하다. 
 
 
 ## Markov Decision Process(MDP)
