@@ -18,7 +18,7 @@
 
 - 문제를 해결하기 위해서는 우선 문제를 정의해야 한다. 강화학습의 대상이 되는 문제는 Markov Decision Process(MDP)로 정의된다.
 
-- **`Markov Property`**는 **𝑡시점**에 어떤 사건이 발생할 확률은 오직 **𝑡−1시점**에만 영향을 받는 성질이다.
+- **`Markov Property`** 는 **𝑡시점**에 어떤 사건이 발생할 확률은 오직 **𝑡−1시점**에만 영향을 받는 성질이다.
 
 - 강화학습의 문제는 **Markov Property**를 가지는 **`Markov Decision Process`** 로 정의된다.
 
