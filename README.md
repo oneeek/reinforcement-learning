@@ -26,6 +26,8 @@
   - Agnet가 목표지점에 빠르게 도착할 수 있도록 매 step마다 -0.1점의 Reward(페널티)를 준다.
   - Agnet가 목표지점에 도착하면 +1점의 Reward를 준다.
 
+<br/>
+
 - Grid World의 학습 과정
 
 <p align="center">
