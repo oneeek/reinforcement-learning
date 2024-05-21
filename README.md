@@ -13,10 +13,12 @@
 > ### **강화학습의 학습 순서**
 
 1. Agnet는 Environment의 State를 관측(observation)한다.
-2. 현재 State에서 
-3. Agnet가 취한 Action에 의해 Environment의 State가 변화한다.
-4. 
+2. Agnet는 현재 State에서 Reward를 가장 많이 받을 것이라 예상되는 Action을 선택한다.
+3. Agnet가 취한 Action에 의해 Environment가 변화한다.
+4. Environment로부터 주어진 Reward에 대한 정보로 Agnet의 Action을 평가한다. 
+5. Agnet는 변화한 Environment의 State를 바탕으로 새로운 Action을 선택한다.
 
+위 과정을 반복하면서 Agnet는 Reward를 최대화 할 수 있는 Action을 학습한다.
 
 <br/>
 
