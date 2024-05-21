@@ -29,7 +29,7 @@
 - Grid World의 학습 과정
 
 <p align="center">
-<img width="70%" src="https://github.com/oneeek/soft-actor-critic/assets/169229814/34ddf9e3-98a1-4e68-a0c3-33c96aadb5d6"/>
+<img width="70%" src="https://github.com/oneeek/reinforcement-learning/assets/169229814/489f523b-bb89-4c13-b3c9-a8c59f4ab6a7"/>
 
    1. Agnet는 Environment의 현재 State <1,1>를 관측(observation)한다.
    2. Agnet는 현재 State에서 선택할 수 있는 Action 중 오른쪽으로 1칸 이동하는 Action을 선택한다.
