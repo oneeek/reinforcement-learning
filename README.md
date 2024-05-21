@@ -6,7 +6,8 @@
 <br/>
 
 👻 강화학습의 구성 요소
-: Environment(환경)과 Agent
+
+: Environment(환경), Agent
 
 특정 Environment에서 정의된 Agnet가 현재의 State(상태)에서 선택 가능한 Action(행동) 중 Reward(기대 보상)를 최대화하는 방향으로 Action(행동)을 선택하도록 스스로 학습
 
