@@ -7,13 +7,13 @@
 
 <br/>
 
-👻 강화학습의 구성 요소 👻
+**👻 강화학습의 구성 요소 👻**
 
  **Environment　⇄　Agent** 　: 강화학습은 특정 Environment에서 정의된 Agnet가 현재의 State에서 선택 가능한 Action 중 Reward를 최대화하는 방향으로 Action을 선택하도록 스스로 학습한다. 이때 Reward(기대 보상)는 미래에 받게 될 모든 Reward들의 합에 대한 현재 값으로 정의한다.
 
 <br/>
 
-👻 Markov Decision Process 👻
+**👻 Markov Decision Process 👻**
 
  **State(𝑆 ), Action(𝐴), Reward(𝑅), 전이확률(𝑃), 할인율(𝛾)**
 
