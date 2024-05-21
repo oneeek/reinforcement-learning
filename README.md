@@ -20,7 +20,7 @@
 
 <br/>
 
-> 강화학습은 **Markov Property**를 가지는 **`Markov Decision Process`** 로 정의된 문제를 푸는 알고리즘.
+> 강화학습은 **Markov Property**를 가지는 **Markov Decision Process** 로 정의된 문제를 푸는 알고리즘.
 
 <br/>
 
