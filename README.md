@@ -1,5 +1,4 @@
 # Reinforcement Learning (강화학습)
-
 - Machine Learning의 종류는 지도학습(supervised learning), 비지도학습(unsupervised learning), 그리고 강화학습(reinforcement learning)의 3가지 방법으로 분류
 - **Reinforcement learning** 은 행동심리학의 시행착오를 통해 학습하는 '강화' 개념에서 영감을 받은 순차적 의사결정 문제를 해결하기 위한 방법론
 <br/>
