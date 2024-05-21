@@ -44,7 +44,7 @@
 <p align="center">
 <img width="40%" src="https://github.com/oneeek/reinforcement-learning/assets/169229814/9f5c4df4-5fd2-4bf8-b8ad-72b883f84887"/>
 
-위 이미지의 episode에서 최종 Reward는 step 마다 -0.1점, 목표지점에 도달하여 +1.0점을 받았기 때문에 **0.3점**이 된다.
+위 이미지의 episode에서 최종 Reward는 step 마다 -0.1점, 목표지점에 도달하여 +1점을 받았기 때문에 **0.3점**이 된다.
 
 
 <br/>
