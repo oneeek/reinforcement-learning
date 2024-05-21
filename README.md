@@ -15,6 +15,6 @@ Reward(기대 보상)는 미래에 받게 될 모든 Reward들의 합에 대한 
 
 ## Reinforcement Learning의 분류
 
-1.  모델이 존재하는 경우 Model-based, 모델이 존재하지 않는 경우 Model-free
-2.  학습의 대상이 정책(policy)이라면 Policy-Based, 가치함수(value function)라면 Value-Based
+- 모델이 존재하는 경우 Model-based, 모델이 존재하지 않는 경우 Model-free
+- 학습의 대상이 정책(policy)이라면 Policy-Based, 가치함수(value function)라면 Value-Based
 
