@@ -11,9 +11,7 @@
 
 <br/>
 
-🤔 강화학습을 이해하기 위해서는 먼저 Markov Decision Process에 대해 알아야 한다. 
-
-강화학습으로 해결하고자 하는 문제는 Markov Decision Process로 정의되는 문제이다.
+🤔 강화학습을 이해하기 위해서는 먼저 Markov Decision Process에 대해 알아야 한다. 강화학습으로 해결하고자 하는 문제는 Markov Decision Process로 정의되는 문제이다.
 
 
 ## Markov Decision Process(MDP)
