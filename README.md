@@ -12,9 +12,9 @@
 
 <br/>
 
-🤔 강화학습을 이해하기 위해서는 Markov Decision Process에 대해 알아야 한다.
+🤔 강화학습을 이해하기 위해서는 먼저 Markov Decision Process에 대해 알아야 한다.
 
-<br/><br/>
+<br/>
 
 ## Markov Decision Process(MDP)
 
