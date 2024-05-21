@@ -19,6 +19,13 @@
 <br/>
 <br/>
 
+👻 Markov Decision Process 👻
+
+ **State(𝑆 ), Action(𝐴), Reward(𝑅), 전이확률(𝑃), 할인율(𝛾)**
+
+: 특정 
+
+
 ## Reinforcement Learning의 분류
 
 - 모델이 존재하는 경우 Model-based, 모델이 존재하지 않는 경우 Model-free
