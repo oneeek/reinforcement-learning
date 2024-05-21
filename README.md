@@ -11,12 +11,12 @@
 
 <br/>
 
-🤔 강화학습을 이해하기 위해서는 먼저 Markov Decision Process에 대해 알아야 한다.
+🤔 강화학습을 이해하기 위해서는 먼저 Markov Decision Process에 대해 알아야 한다. 
+
+강화학습으로 해결하고자 하는 문제는 Markov Decision Process로 정의되는 문제이다.
 
 
 ## Markov Decision Process(MDP)
-
-- 문제를 해결하기 위해서는 우선 문제를 정의해야 한다. 강화학습의 대상이 되는 문제는 Markov Decision Process(MDP)로 정의된다.
 
 - **`Markov Property`** 는 **𝑡시점**에 어떤 사건이 발생할 확률은 오직 **𝑡−1시점**에만 영향을 받는 성질이다.
 
