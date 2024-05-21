@@ -9,6 +9,15 @@
 
  **`Environment`**　⇄　**`Agent`** : 강화학습은 특정 **Environment**에서 정의된 **Agnet**가 현재의 **State**에서 선택 가능한 **Action** 중 **Reward**를 최대화하는 방향으로 Action을 선택하도록 스스로 학습한다. 이때 Reward(기대 보상)는 미래에 받게 될 모든 Reward들의 합에 대한 현재 값으로 정의한다.
 
+
+> ### **강화학습의 학습 순서**
+
+1. Agnet는 Environment의 State를 관측(observation)한다.
+2. 현재 State에서 
+3. Agnet가 취한 Action에 의해 Environment의 State가 변화한다.
+4. 
+
+
 <br/>
 
 🤔 강화학습으로 해결하고자 하는 문제는 Markov Decision Process로 정의되는 문제이다. 따라서 이에 대한 이해가 필요하다.
@@ -16,6 +25,9 @@
 
 ## Markov Decision Process(MDP)
 
+- **`Markov Decision Process`** 는 순차적 의사결정 문제를 풀기 위한 수학 모델이다.
+
+- 이는
 - **`Markov Property`** 는 **𝑡시점**에 어떤 사건이 발생할 확률은 오직 **𝑡−1시점**에만 영향을 받는 성질이다.
 
 - 강화학습의 대상이 되는 문제는 Markov Property를 가지는 **`Markov Decision Process`** 로 정의된다.
