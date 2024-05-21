@@ -12,6 +12,8 @@
 
 > ### **강화학습의 학습 순서**
 
+- 예시
+
 1. Agnet는 Environment의 State를 관측(observation)한다.
 2. Agnet는 현재 State에서 Reward를 가장 많이 받을 것이라 예상되는 Action을 선택한다.
 3. Agnet가 취한 Action에 의해 Environment가 변화한다.
