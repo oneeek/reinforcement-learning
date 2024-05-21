@@ -18,7 +18,18 @@
 
 ### **Environment**　⇄　**Agent**
 
-- 예시
+- Grid World의 예시
+
+  - Grid World의 Environment는 2차원의 격자로 구성된다.
+  - Grid World의 Agnet는 주어진 시간(step) 내에 목표지점에 도달해야 한다.
+  - Agnet는 현재 위치에서 이웃한 격자로 1칸 이동하는 Action(상하좌우)을 취할 수 있다.
+  - Agnet가 목표지점에 빠르게 도착할 수 있도록 매 step마다 -0.1점의 Reward를 준다.
+  - Agnet가 목표지점에 도착하면 +1점의 Reward를 준다. 
+ 
+
+- Grid World의 학습 과정
+
+   1. 
 
 1. Agnet는 Environment의 State를 관측(observation)한다.
 2. Agnet는 현재 State에서 Reward를 가장 많이 받을 것이라 예상되는 Action을 선택한다.
