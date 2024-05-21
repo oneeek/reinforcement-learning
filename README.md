@@ -19,6 +19,7 @@
 - 문제를 해결하기 위해서는 우선 문제를 정의해야 한다. 강화학습의 대상이 되는 문제는 Markov Decision Process(MDP)로 정의된다.
 
 <br/>
+
 > 강화학습은 **Markov Property**를 가지는 **`Markov Decision Process`** 로 정의된 문제를 푸는 알고리즘.
 
 <br/>
