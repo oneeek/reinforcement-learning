@@ -18,9 +18,9 @@
 
 - **`Markov Property`** 는 **𝑡시점**에 어떤 사건이 발생할 확률은 오직 **𝑡−1시점**에만 영향을 받는 성질이다.
 
-- 강화학습의 대상이 되는 문제는 **Markov Property**를 가지는 **`Markov Decision Process`** 로 정의된다.
+- 강화학습의 대상이 되는 문제는 Markov Property를 가지는 **`Markov Decision Process`** 로 정의된다.
 
--  **Markov Property**에 따라 **State(𝑆)** 는 아래 식과 같이 표현할 수 있다.
+-  Markov Property에 따라 **State(𝑆)** 는 아래 식과 같이 표현할 수 있다.
 
 $$  **P[S_{t+1}|S_t] = P[S_{t+1}|S_1,S_2,⋯S_t]**  $$
 
