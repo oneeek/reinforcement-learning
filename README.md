@@ -18,7 +18,7 @@
 
 ### **Environment**　⇄　**Agent**
 
-- Grid World의 예시
+- Grid World 예시
 
   - Grid World의 Environment는 2차원의 격자(5x5)로 구성된다.
   - Grid World의 Agnet는 주어진 시간(step) 내에 목표지점에 도달해야 한다.
@@ -28,6 +28,9 @@
 
 - Grid World의 학습 과정
 
+<p align="center">
+<img width="70%" src="https://github.com/oneeek/soft-actor-critic/assets/169229814/34ddf9e3-98a1-4e68-a0c3-33c96aadb5d6"/>
+
    1. Agnet는 Environment의 현재 State <1,1>를 관측(observation)한다.
    2. Agnet는 현재 State에서 선택할 수 있는 Action 중 오른쪽으로 1칸 이동하는 Action을 선택한다.
    3. Agnet의 Action으로 인해 State가 <2,1>로 변화한다.
@@ -35,7 +38,9 @@
    5. Agnet는 새로운 State <2,1>에서 새로운 Action을 선택한다.
 
    6. 1~5의 과정을 반복하다가 Agnet가 목표지점에 도달하면 episode는 종료된다. 정해진 step의 수가 끝나면 목표지점에 도달하지 못해도 episode는 종료된다.
- 
+
+
+
 
 
 
