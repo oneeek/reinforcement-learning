@@ -6,7 +6,6 @@
 
 
 <br/>
-<br/>
 
 👻 강화학습의 구성 요소 👻
 
@@ -16,7 +15,6 @@
 
 *Reward(기대 보상)는 미래에 받게 될 모든 Reward들의 합에 대한 현재 값으로 정의.
 
-<br/>
 <br/>
 
 👻 Markov Decision Process 👻
