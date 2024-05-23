@@ -31,7 +31,8 @@
 - Grid World의 학습 과정
 
 <p align="center">
-<img width="70%" src="https://github.com/oneeek/reinforcement-learning/assets/169229814/489f523b-bb89-4c13-b3c9-a8c59f4ab6a7"/>
+<img width="60%" src="https://github.com/oneeek/reinforcement-learning/assets/169229814/1ab0c923-618b-4b22-bf92-1d152bb0716a"/>
+
 
    1. Agnet는 Environment의 현재 State <1,1>를 관측(observation)한다.
    2. Agnet는 현재 State에서 선택할 수 있는 Action 중 오른쪽으로 1칸 이동하는 Action을 선택한다.
@@ -42,7 +43,7 @@
    6. 1~5의 과정을 반복하다가 Agnet가 목표지점에 도달하면 episode는 종료된다. 정해진 step의 수가 끝나면 목표지점에 도달하지 못해도 episode는 종료된다.
 
 <p align="center">
-<img width="60%" src="https://github.com/oneeek/reinforcement-learning/assets/169229814/578aff7b-4c8e-4c95-b433-eb9dcdf1e9ec"/>
+<img width="60%" src="https://github.com/oneeek/reinforcement-learning/assets/169229814/bbd58c1b-ad60-4768-8795-42809b12d09c"/>
 
 
 위 이미지의 episode에서 최종 Reward는 step 마다 -0.1점, 목표지점에 도달하여 +1점을 받았기 때문에 **0.3점**이 된다.
