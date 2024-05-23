@@ -43,7 +43,7 @@
    6. 1~5의 과정을 반복하다가 Agnet가 목표지점에 도달하면 episode는 종료된다. 정해진 step의 수가 끝나면 목표지점에 도달하지 못해도 episode는 종료된다.
 
 <p align="center">
-<img width="55%" src="https://github.com/oneeek/reinforcement-learning/assets/169229814/bbd58c1b-ad60-4768-8795-42809b12d09c"/>
+<img width="58%" src="https://github.com/oneeek/reinforcement-learning/assets/169229814/bbd58c1b-ad60-4768-8795-42809b12d09c"/>
 
 
 위 이미지의 episode에서 최종 Reward는 step 마다 -0.1점, 목표지점에 도달하여 +1점을 받았기 때문에 **0.3점**이 된다.
