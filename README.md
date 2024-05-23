@@ -50,12 +50,12 @@ $$  **P[S_{t+1}|S_t] = P[S_{t+1}|S_1,S_2,⋯S_t]**  $$
 <img width="60%" src="https://github.com/oneeek/reinforcement-learning/assets/169229814/1ab0c923-618b-4b22-bf92-1d152bb0716a"/>
 
    1. Agent는 Environment의 현재 State <1,1>를 관측(observation)한다.
-   2. Agent는 현재 State에서 선택할 수 있는 Action 중 오른쪽으로 1칸 이동하는 Action을 선택한다.
-   3. Agent의 Action으로 인해 State가 <2,1>로 변화한다.
-   4. 목표지점에 도달하지 못하고 step이 지났으므로 -0.1점의 Reward를 받는다.
-   5. Agent는 새로운 State <2,1>에서 새로운 Action을 선택한다.
+   3. Agent는 현재 State에서 선택할 수 있는 Action 중 오른쪽으로 1칸 이동하는 Action을 선택한다.
+   4. Agent의 Action으로 인해 State가 <2,1>로 변화한다.
+   5. 목표지점에 도달하지 못하고 step이 지났으므로 -0.1점의 Reward를 받는다.
+   6. Agent는 새로운 State <2,1>에서 새로운 Action을 선택한다.
 
-   6. 이를 반복하다가 Agent가 목표지점에 도달하면 episode는 종료된다. 정해진 step의 수가 끝나면 목표지점에 도달하지 못해도 episode는 종료된다.
+   7. 이를 반복하다가 Agent가 목표지점에 도달하면 episode는 종료된다. 정해진 step의 수가 끝나면 목표지점에 도달하지 못해도 episode는 종료된다.
 
 <p align="center">
 <img width="58%" src="https://github.com/oneeek/reinforcement-learning/assets/169229814/bbd58c1b-ad60-4768-8795-42809b12d09c"/>
