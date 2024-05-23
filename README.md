@@ -40,7 +40,7 @@
    4. 목표지점에 도달하지 못하고 step이 지났으므로 -0.1점의 Reward를 받는다.
    5. Agnet는 새로운 State <2,1>에서 새로운 Action을 선택한다.
 
-   6. 1~5의 과정을 반복하다가 Agnet가 목표지점에 도달하면 episode는 종료된다. 정해진 step의 수가 끝나면 목표지점에 도달하지 못해도 episode는 종료된다.
+   6. 이를 반복하다가 Agnet가 목표지점에 도달하면 episode는 종료된다. 정해진 step의 수가 끝나면 목표지점에 도달하지 못해도 episode는 종료된다.
 
 <p align="center">
 <img width="58%" src="https://github.com/oneeek/reinforcement-learning/assets/169229814/bbd58c1b-ad60-4768-8795-42809b12d09c"/>
