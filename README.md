@@ -18,23 +18,17 @@
 
 > ### **Markov Decision Process(MDP)**
 
-🤔 강화학습으로 해결하고자 하는 문제는 Markov Decision Process로 정의되는 문제이다. 따라서 이에 대한 이해가 필요하다.
+🤔 강화학습으로 해결하고자 하는 문제는 Markov Decision Process로 정의되는 문제이다. 따라서 우선 이에 대한 이해가 필요하다.
 
 - **`Markov Decision Process`** 는 순차적 의사결정 문제를 풀기 위한 수학 모델이다.
+
+- - MDP의 구성요소 : **State(𝑆), Action(𝐴), Reward(𝑅), 전이확률(𝑃), 할인율(𝛾)**
 
 - 이는 현재 어떤 사건이 발생할 확률은 오직 이전 시점에만 영향을 받는 **`Markov Property`** 를 가진다.
 
 $$  **P[S_{t+1}|S_t] = P[S_{t+1}|S_1,S_2,⋯S_t]**  $$
 
 <br/>
-
-- MDP의 구성요소 : **State(𝑆), Action(𝐴), Reward(𝑅), 전이확률(𝑃), 할인율(𝛾)**
-
-  -  **State(𝑆)**
-  -  **Action(𝐴)**
-  -  **Reward(𝑅)**
-  -  **전이확률(𝑃)**
-  -  **할인율(𝛾)**
 
 <br/>
 
