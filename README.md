@@ -40,6 +40,8 @@ $$  **P[S_{t+1}|S_t] = P[S_{t+1}|S_1,S_2,⋯S_t]**  $$
 
 > ### **강화학습의 학습 과정**
 
+🤔 .
+
 - Grid World 예시
 
   - Grid World의 Environment는 2차원의 격자(5x5)로 구성된다.
