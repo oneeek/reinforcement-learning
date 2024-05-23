@@ -62,9 +62,9 @@ $$  **P[S_{t+1}|S_t] = P[S_{t+1}|S_1,S_2,⋯S_t]**  $$
 
 위 이미지의 episode에서 최종 Reward는 step 마다 -0.1점, 목표지점에 도달하여 +1점을 받았기 때문에 **0.3점**이 된다.
 
-위 Agent는 특정 State에서 Action을 선택할 때 아무런 정보가 없었기 때문에 무작위로 Action을 선택했다.
-
+위 Agent는 특정 State에서 Action을 선택할 때 아무런 정보가 없었기 때문에 무작위로 Action을 선택했다. 
 그러나 위 episode를 통해 특정 State에서 선택한 Action과 그에 따른 Reward 정보가 생기게 되었다. 이 정보를 저장하고 다음 episode를 시작하면 특정 State에서 Action을 선택할 때 Reward 정보를 참조하여 Action을 선택할 수 있게 된다.
+
 
 
 
