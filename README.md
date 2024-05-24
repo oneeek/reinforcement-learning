@@ -57,6 +57,8 @@ $$  **P[S_{t+1}|S_t] = P[S_{t+1}|S_1,S_2,⋯S_t]**  $$
 
    7. 이를 반복하다가 Agent가 목표지점에 도달하면 episode는 종료된다. 정해진 step의 수가 끝나면 목표지점에 도달하지 못해도 episode는 종료된다.
 
+<br/>
+
 - Reward
 
 <p align="center">
